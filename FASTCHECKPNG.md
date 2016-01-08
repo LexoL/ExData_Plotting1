@@ -25,10 +25,4 @@ This document is developed just to represent the results of the course project.
 
 ![plot of chunk plot4](plot4.png) 
 
-## The four scripts submitted to review
 
-### plot1.R script
-
-```{r}
-read_chunk('plot1.R')
-```
