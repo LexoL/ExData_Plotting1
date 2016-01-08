@@ -29,6 +29,6 @@ This document is developed just to represent the results of the course project.
 
 ### plot1.R script
 
-```{r echo=FALSE}
+```{r}
 read_chunk('plot1.R')
 ```
